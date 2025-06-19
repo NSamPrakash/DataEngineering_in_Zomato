@@ -17,7 +17,7 @@ To build a **data engineering pipeline** that simulates a core workflow in Zomat
 
 - **Python** – for building the data pipeline
 - **SQL** – for data analysis and querying
-- **Flask** – lightweight app simulation (optional)
+- **Flask** – lightweight app simulation
 - **SQLite / PostgreSQL / MySQL** – for storing order data
 - **Pandas** – for data visualization
 
